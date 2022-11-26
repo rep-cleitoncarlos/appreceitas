@@ -10,3 +10,4 @@ pip install django
 .\venv\Scripts\Activate.ps1
 
 ```
+> ...
