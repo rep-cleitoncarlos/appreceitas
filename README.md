@@ -11,3 +11,5 @@ pip install django
 
 ```
 > ...
+
+>Ambiente virtual criado. Próximo passo será a instalação do Django e a criação do projeto.
