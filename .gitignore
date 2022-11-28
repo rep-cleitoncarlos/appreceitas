@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 # Environments
 .env
 .venv
 .venv/
+=======
+# Byte-compiled / optimized / DLL files
+receitas/__pycache__/
+
+# Environments
+.env
+.venv
+>>>>>>> dev
 env/
 venv/
 ENV/
