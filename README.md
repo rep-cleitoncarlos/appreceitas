@@ -6,7 +6,7 @@
 
 Abra o terminal do VSCode e acesse o diretório onde a aplicação será criada.
 
-> Em seguida criaremos um ambiente virtual para a nossa aplicação. Execute o comando abaixo (windows):
+> Em seguida criaremos um ambiente virtual para a nossa aplicação. Execute o comando abaixo (windows)
 
 ```
 .\venv\Scripts\Activate.ps1
